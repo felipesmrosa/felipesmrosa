@@ -8,9 +8,9 @@
 </div>
 
 <div align="center"> 
-  <a href="https://instagram.com/felipe_mrosa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%16b400?style=for-the-badge&logo=instagram&logoColor=white"</a>
-  <a href="https://www.youtube.com/@merandex" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href = "mailto:cmp.1a.felipesmrosa@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/felipe_mrosa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%129400?style=for-the-badge&logo=instagram&logoColor=white"</a>
+  <a href="https://www.youtube.com/@merandex" target="_blank"><img src="https://img.shields.io/badge/YouTube-129400?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href = "mailto:cmp.1a.felipesmrosa@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%129400?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
 ### MAIN SKILLS:
