@@ -14,10 +14,10 @@
 </div>
 
 ### MAIN SKILLS:
-![HTML](https://img.shields.io/badge/-HTML5-29292e?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=202024)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-29292e?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=202024)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-29292e?style=for-the-badge&logo=javascript&labelColor=202024)&nbsp;
-![React](https://img.shields.io/badge/-React.js-29292e?style=for-the-badge&logo=react&labelColor=202024)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML5-29292e?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=16b400)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-29292e?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=16b400)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-29292e?style=for-the-badge&logo=javascript&labelColor=16b400)&nbsp;
+![React](https://img.shields.io/badge/-React.js-29292e?style=for-the-badge&logo=react&labelColor=16b400)&nbsp;
 
 ### STUDYING IN THIS MOMENT:
 ![React](https://img.shields.io/badge/-React.js-29292e?style=for-the-badge&logo=react&labelColor=202024)&nbsp;
