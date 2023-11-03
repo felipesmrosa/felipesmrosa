@@ -13,7 +13,7 @@
   <a href = "mailto:cmp.1a.felipesmrosa@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-129400?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-### <span style="color:#16b400;">MAIN SKILLS:</span>
+<font color="#4CAF50">MAIN SKILLS:</font>
 ![HTML](https://img.shields.io/badge/-HTML5-29292e?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=202024)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-29292e?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=202024)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-29292e?style=for-the-badge&logo=javascript&labelColor=202024)&nbsp;
