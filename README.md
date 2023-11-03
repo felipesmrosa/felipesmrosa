@@ -25,6 +25,6 @@
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p color="202024" align="center"><img align="center" src="https://profile-counter.glitch.me/{felipesmrosa}/count.svg" /></p> 
+<p align="center"><img color="202024" align="center" src="https://profile-counter.glitch.me/{felipesmrosa}/count.svg" /></p> 
 <br>
 </div>
