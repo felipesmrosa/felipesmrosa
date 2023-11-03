@@ -22,7 +22,6 @@
 ### STUDYING IN THIS MOMENT:
 ![React](https://img.shields.io/badge/-React.js-29292e?style=for-the-badge&logo=react&labelColor=202024)&nbsp;
 ![Typescript](https://img.shields.io/badge/-JavaScript-29292e?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=202024)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-29292e?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=202024)&nbsp;
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
